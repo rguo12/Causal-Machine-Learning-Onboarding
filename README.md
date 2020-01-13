@@ -13,7 +13,7 @@ Materials for onboarding toward a publication on causal inference
 
 [Thorsten's (Cornell) Counterfactual ML course](https://www.cs.cornell.edu/courses/cs7792/2018fa/)
 
-[Our repository with 370+ stars (check the any part you like)](https://github.com/rguo12/awesome-causality-algorithms)
+[Our repository with 370+ stars (feel free to check the part you like)](https://github.com/rguo12/awesome-causality-algorithms)
 
 #### Learning Causality on Networked Observational Data
 
