@@ -28,7 +28,7 @@ Materials for onboarding toward a publication on causal inference
 
 [RL and Causality](http://gershmanlab.webfactional.com/pubs/RL_causal.pdf)
 
-[RL and Hidden Confounders from Cambridge](https://arxiv.org/pdf/1812.10576)
+[RL and Hidden Confounders JMLR paper](https://arxiv.org/pdf/1812.10576)
 
 #### NLP and Causality
 [CausalBERT from David Blei's group](https://arxiv.org/pdf/1905.12741.pdf)
