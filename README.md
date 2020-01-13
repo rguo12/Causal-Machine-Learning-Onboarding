@@ -16,6 +16,7 @@ Materials for onboarding toward a publication on causal inference
 [Our repository with 370+ stars (check the any part you like)](https://github.com/rguo12/awesome-causality-algorithms)
 
 #### Learning Causality on Networked Observational Data
+
 [Our WSDM'20 paper on learning hidden confounders from networked data](https://github.com/rguo12/network-deconfounder-wsdm20)
 
 [Our SDM'20 paper on counterfactual evaluation from networked data](https://arxiv.org/pdf/1912.10536)
