@@ -1,4 +1,4 @@
-# Causal_Inference_Onboarding
+# Causal-Machine-Learning-Onboarding
 Materials for onboarding toward a publication on causal inference
 
 ### Step 1. Be familiar with concepts
