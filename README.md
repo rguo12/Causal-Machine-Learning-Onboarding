@@ -1,5 +1,5 @@
 # Causal-Machine-Learning-Onboarding
-Materials for onboarding toward a publication on causal inference
+Materials for onboarding toward a publication on causal machine learning
 
 ### Step 1. Be familiar with concepts
 [Shaliz's Book (Chapter 19-22)](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
