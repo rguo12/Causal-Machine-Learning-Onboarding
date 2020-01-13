@@ -8,6 +8,8 @@ Materials for onboarding toward a publication on causal inference
 
 [Pearl's Overview](https://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf)
 
+ASU's STP 598 Class with Dr. PR Hahn (Available in Spring semesters).
+
 
 ### Step 2. Find the connections to your background
 
